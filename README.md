@@ -1,4 +1,4 @@
-{Bitcoin flashing software](https://t.me/czarbit)
+[Bitcoin flashing software](https://t.me/czarbit)
 
 Here are the features of the bitcoin flashing software v7.0.0 core network
 📌Send transactions with confirmation
